@@ -15,9 +15,9 @@
 
 
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=trombonist76&theme=radical&hide_border=true&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?)<br/>
+![](https://github-readme-stats.vercel.app/api?username=trombonist76&theme=radical&hide_border=true&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=trombonist76&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=trombonist76&theme=radical&hide_border=true)<br/>
-username=trombonist76&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
