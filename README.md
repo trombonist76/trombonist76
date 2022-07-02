@@ -2,7 +2,7 @@
 
 **I'm Mahmut self-taught frontend and web3 developer from Turkey. <br>I love discovering new technologies and using these technologies to make my ideas and dreams come true.**
 
-🌱 I’m currently learning React.js, Python, Javascript, Typescript, Solidity, AssemblyScript<br>💬 Ask me about React.js, Python, Javascript<br>📫 How to reach me mahmut.hg@gmail.com
+🌱 I’m currently learning **React.js, Python, Javascript, Typescript, Solidity, AssemblyScript**<br>💬 Ask me about React.js, Python, Javascript<br>📫 How to reach me mahmut.hg@gmail.com
 
 
 ### Connect With Me
