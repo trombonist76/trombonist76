@@ -31,5 +31,5 @@
 ##  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=trombonist76&icon=5&color=6)](https://visitcount.itsvg.in)
+
+![](https://visitcount.itsvg.in/api?id=trombonist76&icon=5&color=6)](https://visitcount.itsvg.in)
